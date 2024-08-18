@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="secondDisturbedAleja.png">
+<SubTexture name="idle0000" x="0" y="0" width="161" height="543" frameX="-525" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0000" x="538" y="0" width="185" height="541" frameX="-495" frameY="-133" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0001" x="723" y="0" width="181" height="541" frameX="-500" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0000" x="381" y="543" width="161" height="531" frameX="-527" frameY="-141" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0001" x="220" y="543" width="161" height="538" frameX="-527" frameY="-135" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0000" x="904" y="0" width="218" height="541" frameX="-468" frameY="-133" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0001" x="0" y="543" width="220" height="539" frameX="-466" frameY="-135" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0000" x="161" y="0" width="188" height="543" frameX="-499" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0001" x="349" y="0" width="189" height="543" frameX="-501" frameY="-131" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

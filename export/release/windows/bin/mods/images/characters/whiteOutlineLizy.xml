@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="whiteOutlineLizy.png">
+<SubTexture name="idle0000" x="1746" y="1966" width="578" height="598" frameX="-307" frameY="-122" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0001" x="1194" y="1966" width="552" height="617" frameX="-319" frameY="-103" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0002" x="2061" y="0" width="540" height="627" frameX="-328" frameY="-93" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0003" x="2061" y="627" width="537" height="627" frameX="-331" frameY="-93" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0000" x="1100" y="0" width="961" height="658" frameX="0" frameY="-62" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0001" x="0" y="670" width="978" height="658" frameX="0" frameY="-62" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0000" x="0" y="1966" width="1194" height="619" frameX="0" frameY="-101" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0001" x="0" y="1328" width="1196" height="638" frameX="-6" frameY="-82" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0000" x="0" y="0" width="546" height="670" frameX="-333" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0001" x="546" y="0" width="554" height="660" frameX="-328" frameY="-60" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0000" x="978" y="670" width="792" height="637" frameX="-459" frameY="-83" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0001" x="1196" y="1328" width="788" height="637" frameX="-440" frameY="-83" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

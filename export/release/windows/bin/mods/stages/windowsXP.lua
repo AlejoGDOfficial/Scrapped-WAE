@@ -1,0 +1,12 @@
+function onCreate()
+	makeLuaSprite('mountains', 'backgrounds/windowsXP/mountains', -600, -300)
+	setLuaSpriteScrollFactor('mountains', 0.5, 0.5)
+	setProperty('mountains.scale.x', 2)
+	setProperty('mountains.scale.y', 2)
+	makeLuaSprite('ground', 'backgrounds/windowsXP/ground', -600, -300)
+	setLuaSpriteScrollFactor('ground', 1, 1)
+	setProperty('ground.scale.x', 2)
+	setProperty('ground.scale.y', 2)
+	addLuaSprite('mountains', false)
+	addLuaSprite('ground', false)
+end

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cuteScrewYouAlejo.png">
+<SubTexture name="idle0000" x="161" y="0" width="159" height="217" frameX="-231" frameY="-78" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0001" x="0" y="0" width="161" height="219" frameX="-230" frameY="-77" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0002" x="320" y="0" width="157" height="215" frameX="-232" frameY="-79" frameWidth="640" frameHeight="360" />
+</TextureAtlas>

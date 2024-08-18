@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				243,
+				-137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				252,
+				-172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				264,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				211,
+				-148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				-150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				274,
+				-79
+			],
+			"anim": "stuckInCalifornia",
+			"fps": 24,
+			"name": "stuck in fornia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				-70
+			],
+			"anim": "cry",
+			"fps": 24,
+			"name": "cry",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/moldygh",
+	"position": [
+		280,
+		-50
+	],
+	"healthicon": "moldy",
+	"flip_x": false,
+	"healthbar_colors": [
+		39,
+		21,
+		130
+	],
+	"camera_position": [
+		161,
+		150
+	],
+	"sing_duration": 6,
+	"scale": 0.999999999999999
+}

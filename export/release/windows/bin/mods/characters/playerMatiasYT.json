@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				39
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				1,
+				1,
+				2,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				39
+			],
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-173,
+				41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				1,
+				1,
+				2,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				35
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": [
+				1,
+				1,
+				2,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				1,
+				1,
+				2,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/matiasYT",
+	"position": [
+		-430,
+		-240
+	],
+	"healthicon": "matiasYT",
+	"flip_x": true,
+	"healthbar_colors": [
+		50,
+		64,
+		255
+	],
+	"camera_position": [
+		-210,
+		150
+	],
+	"sing_duration": 6,
+	"scale": 0.65,
+	"_editor_isPlayer": true
+}

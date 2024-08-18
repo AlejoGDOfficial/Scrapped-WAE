@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				160
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Thearchy Man Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-570,
+				80
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Thearchy Man Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Thearchy Man Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				410
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Thearchy Man Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				370,
+				120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Thearchy Man Left",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bSideThearchyExpunged",
+	"position": [
+		-260,
+		80
+	],
+	"healthicon": "bSideThearchyExpunged",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-250,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 1.8,
+	"_editor_isPlayer": false
+}

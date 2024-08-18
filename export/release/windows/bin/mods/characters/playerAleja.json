@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-160
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-160
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-160
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle0"
+		},
+		{
+			"offsets": [
+				180,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle0",
+			"loop": false,
+			"name": "idle1"
+		},
+		{
+			"offsets": [
+				180,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle1",
+			"loop": false,
+			"name": "idle2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aleja",
+	"position": [
+		-100,
+		-120
+	],
+	"healthicon": "aleja",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		140,
+		100
+	],
+	"sing_duration": 6,
+	"scale": 0.999999999999999
+}

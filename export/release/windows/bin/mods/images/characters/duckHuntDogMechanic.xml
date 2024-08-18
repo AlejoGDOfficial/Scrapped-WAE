@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="duckHuntDogMechanic.png">
+<SubTexture name="idle0000" x="1040" y="0" width="521" height="492" frameX="-50" frameY="-228" frameWidth="720" frameHeight="720" />
+<SubTexture name="idle0001" x="0" y="518" width="521" height="505" frameX="-57" frameY="-215" frameWidth="720" frameHeight="720" />
+<SubTexture name="idle0002" x="520" y="0" width="520" height="513" frameX="-63" frameY="-207" frameWidth="720" frameHeight="720" />
+<SubTexture name="idle0003" x="0" y="0" width="520" height="518" frameX="-68" frameY="-202" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

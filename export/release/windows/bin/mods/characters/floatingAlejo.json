@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				180,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				180,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				250,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				180,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/floatingAlejo",
+	"position": [
+		90,
+		0
+	],
+	"healthicon": "alejo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		128,
+		255
+	],
+	"camera_position": [
+		-570,
+		-80
+	],
+	"sing_duration": 6,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

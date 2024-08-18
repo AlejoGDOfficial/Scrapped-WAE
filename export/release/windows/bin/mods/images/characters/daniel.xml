@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="daniel.png">
+<SubTexture name="idle0000" x="0" y="0" width="197" height="624" frameX="-425" frameY="-40" frameWidth="1080" frameHeight="720" />
+<SubTexture name="left0000" x="421" y="0" width="224" height="617" frameX="-338" frameY="-53" frameWidth="1080" frameHeight="720" />
+<SubTexture name="left0001" x="197" y="0" width="224" height="618" frameX="-343" frameY="-52" frameWidth="1080" frameHeight="720" />
+<SubTexture name="left0002" x="645" y="0" width="225" height="617" frameX="-347" frameY="-52" frameWidth="1080" frameHeight="720" />
+<SubTexture name="left0003" x="870" y="0" width="224" height="617" frameX="-352" frameY="-52" frameWidth="1080" frameHeight="720" />
+<SubTexture name="down0000" x="1491" y="0" width="184" height="606" frameX="-460" frameY="-76" frameWidth="1080" frameHeight="720" />
+<SubTexture name="down0001" x="1268" y="610" width="184" height="607" frameX="-460" frameY="-73" frameWidth="1080" frameHeight="720" />
+<SubTexture name="down0002" x="1491" y="606" width="183" height="606" frameX="-460" frameY="-71" frameWidth="1080" frameHeight="720" />
+<SubTexture name="down0003" x="1675" y="0" width="184" height="606" frameX="-459" frameY="-68" frameWidth="1080" frameHeight="720" />
+<SubTexture name="up0000" x="1094" y="0" width="174" height="613" frameX="-430" frameY="-35" frameWidth="1080" frameHeight="720" />
+<SubTexture name="up0001" x="0" y="624" width="175" height="613" frameX="-430" frameY="-38" frameWidth="1080" frameHeight="720" />
+<SubTexture name="up0002" x="175" y="624" width="174" height="613" frameX="-431" frameY="-41" frameWidth="1080" frameHeight="720" />
+<SubTexture name="up0003" x="349" y="624" width="174" height="613" frameX="-431" frameY="-44" frameWidth="1080" frameHeight="720" />
+<SubTexture name="right0000" x="523" y="624" width="223" height="611" frameX="-510" frameY="-58" frameWidth="1080" frameHeight="720" />
+<SubTexture name="right0001" x="746" y="624" width="223" height="611" frameX="-501" frameY="-56" frameWidth="1080" frameHeight="720" />
+<SubTexture name="right0002" x="1268" y="0" width="223" height="610" frameX="-492" frameY="-55" frameWidth="1080" frameHeight="720" />
+<SubTexture name="right0003" x="969" y="624" width="223" height="611" frameX="-483" frameY="-53" frameWidth="1080" frameHeight="720" />
+</TextureAtlas>

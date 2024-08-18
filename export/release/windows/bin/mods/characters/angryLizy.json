@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				220,
+				-160
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				180,
+				-200
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				180,
+				-90
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				180,
+				-160
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				180,
+				-160
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/angryLizy",
+	"position": [
+		-230,
+		-50
+	],
+	"healthicon": "lizy",
+	"flip_x": true,
+	"healthbar_colors": [
+		16,
+		118,
+		242
+	],
+	"camera_position": [
+		460,
+		-30
+	],
+	"sing_duration": 6,
+	"scale": 1.5,
+	"_editor_isPlayer": true
+}

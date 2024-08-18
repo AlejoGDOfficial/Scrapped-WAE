@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfDaniel.png">
+<SubTexture name="idle0000" x="0" y="0" width="171" height="580" frameX="-261" frameY="-119" frameWidth="720" frameHeight="720" />
+<SubTexture name="idle0001" x="171" y="0" width="169" height="580" frameX="-266" frameY="-119" frameWidth="720" frameHeight="720" />
+<SubTexture name="idle0002" x="340" y="0" width="168" height="580" frameX="-271" frameY="-119" frameWidth="720" frameHeight="720" />
+<SubTexture name="idle0003" x="508" y="0" width="167" height="580" frameX="-273" frameY="-119" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

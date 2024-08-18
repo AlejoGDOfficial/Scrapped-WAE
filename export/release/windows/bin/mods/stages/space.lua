@@ -1,0 +1,15 @@
+function onCreate()
+	makeLuaSprite('sky', 'backgrounds/space/sky', -600, -300)
+	setLuaSpriteScrollFactor('sky', 0.125, 0.125)
+	addLuaSprite('sky', false)
+	setProperty('sky.scale.x', 6)
+	setProperty('sky.scale.y', 6)
+    setSpriteShader("sky", "wavyBackground")
+    initLuaShader("wavyBackground")
+end
+function onUpdate()
+    setShaderFloat('sky', "uTime", getSongPosition()/1000)
+    setShaderFloat('sky', "uWaveAmplitude", 0.15)
+    setShaderFloat('sky', "uSpeed", bpm / 100)
+    setShaderFloat('sky', "uFrequency", 5)
+end

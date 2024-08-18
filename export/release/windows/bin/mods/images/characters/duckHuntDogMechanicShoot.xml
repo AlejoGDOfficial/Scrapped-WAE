@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="duckHuntDogMechanicShoot.png">
+<SubTexture name="noHey0000" x="547" y="1036" width="573" height="491" frameX="-51" frameY="-229" frameWidth="720" frameHeight="720" />
+<SubTexture name="noHey0001" x="0" y="1036" width="547" height="506" frameX="-59" frameY="-214" frameWidth="720" frameHeight="720" />
+<SubTexture name="noHey0002" x="1050" y="0" width="532" height="514" frameX="-65" frameY="-206" frameWidth="720" frameHeight="720" />
+<SubTexture name="noHey0003" x="0" y="0" width="524" height="518" frameX="-68" frameY="-202" frameWidth="720" frameHeight="720" />
+<SubTexture name="idle0000" x="524" y="0" width="526" height="518" frameX="-65" frameY="-202" frameWidth="720" frameHeight="720" />
+<SubTexture name="idle0001" x="0" y="518" width="521" height="518" frameX="-73" frameY="-202" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

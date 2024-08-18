@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lizy.png">
+<SubTexture name="idle0000" x="0" y="269" width="131" height="253" frameX="-67" frameY="-24" frameWidth="300" frameHeight="300" />
+<SubTexture name="idle0001" x="131" y="269" width="131" height="253" frameX="-68" frameY="-23" frameWidth="300" frameHeight="300" />
+<SubTexture name="idle0002" x="262" y="269" width="134" height="253" frameX="-66" frameY="-22" frameWidth="300" frameHeight="300" />
+<SubTexture name="walking0000" x="300" y="0" width="148" height="263" frameX="-58" frameY="-22" frameWidth="300" frameHeight="300" />
+<SubTexture name="walking0001" x="448" y="0" width="148" height="263" frameX="-58" frameY="-21" frameWidth="300" frameHeight="300" />
+<SubTexture name="walking0002" x="150" y="0" width="150" height="267" frameX="-56" frameY="-21" frameWidth="300" frameHeight="300" />
+<SubTexture name="walking0003" x="0" y="0" width="150" height="269" frameX="-56" frameY="-22" frameWidth="300" frameHeight="300" />
+</TextureAtlas>

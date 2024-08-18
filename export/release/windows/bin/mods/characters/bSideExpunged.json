@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				140
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "OppoExpungedIdle"
+		},
+		{
+			"offsets": [
+				-111,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "OppoExpungedLeft"
+		},
+		{
+			"offsets": [
+				-183,
+				-135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "OppoExpungedRight"
+		},
+		{
+			"offsets": [
+				-300,
+				-479
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "OppoExpungedDown"
+		},
+		{
+			"offsets": [
+				-219,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "OppoExpungedUp"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bSideExpunged",
+	"position": [
+		-260,
+		80
+	],
+	"healthicon": "bSideExpunged",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.8,
+	"_editor_isPlayer": false
+}

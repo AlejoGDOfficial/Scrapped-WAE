@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="angryLizy.png">
+<SubTexture name="idle0000" x="0" y="455" width="212" height="414" frameX="-516" frameY="-163" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0001" x="570" y="455" width="181" height="409" frameX="-533" frameY="-162" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0002" x="212" y="455" width="181" height="413" frameX="-538" frameY="-157" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0003" x="393" y="455" width="177" height="413" frameX="-540" frameY="-156" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0000" x="1000" y="0" width="309" height="404" frameX="-392" frameY="-157" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0001" x="1000" y="404" width="307" height="404" frameX="-398" frameY="-157" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0000" x="0" y="0" width="262" height="455" frameX="-504" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0001" x="262" y="0" width="258" height="446" frameX="-503" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0000" x="760" y="0" width="240" height="435" frameX="-505" frameY="-149" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0001" x="520" y="0" width="240" height="443" frameX="-505" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0000" x="336" y="869" width="323" height="380" frameX="-524" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0001" x="0" y="869" width="336" height="384" frameX="-519" frameY="-180" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

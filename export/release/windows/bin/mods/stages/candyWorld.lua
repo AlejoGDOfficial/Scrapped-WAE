@@ -1,0 +1,33 @@
+function onCreate()
+	makeLuaSprite('blueScreen', nil, 0, 0)
+	makeGraphic('blueScreen', screenWidth, screenHeight, '8080FF')
+	addLuaSprite('blueScreen')
+	setProperty('blueScreen.alpha', 0.15)
+	setObjectCamera('blueScreen', 'other')
+	makeLuaSprite('sky', 'backgrounds/candyWorld/sky', -600, -300)
+	setLuaSpriteScrollFactor('sky', 0.25, 0.25)
+	makeLuaSprite('platforms', 'backgrounds/candyWorld/platforms', -600, -300)
+	setLuaSpriteScrollFactor('platforms', 1, 1)
+	makeLuaSprite('clouds', 'backgrounds/candyWorld/clouds', -600, -300)
+	setLuaSpriteScrollFactor('clouds', 1.25, 1.25)
+	addLuaSprite('sky', false)
+	addLuaSprite('platforms', false)
+	addLuaSprite('clouds', true)
+	setProperty('sky.scale.x', 1.5)
+	setProperty('sky.scale.y', 1.5)
+	setProperty('platforms.scale.x', 1.5)
+	setProperty('platforms.scale.y', 1.5)
+	setProperty('clouds.scale.x', 1.5)
+	setProperty('clouds.scale.y', 1.5)
+end
+function onCreatePost()
+	setProperty('gf.scale.x', 0.5)
+	setProperty('gf.scale.y', 0.5)
+end
+local t = 0
+function onUpdate(e)
+	t = t + e
+    setProperty('gf.x', 200 + math.sin(t * 2) * 200)
+    setProperty('gf.y', -250 + math.cos(t * 2) * 200)
+	setProperty('gf.angle', t)
+end
